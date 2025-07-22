@@ -9,7 +9,7 @@ A terminal-based C application built to streamline restaurant operations by enab
 - Automated inventory deduction
 - Data persistence for orders and inventory
 
-## 🛠️Tech Stack
+## Tech Stack
 
 - **Language**: C
 - **Storage**: File-based (CSV)

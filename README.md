@@ -1,25 +1,44 @@
-# Restaurant Inventory & Ordering System
+# Inventory Management System
 
-A terminal-based C application built to streamline restaurant operations by enabling inventory tracking, order management, and payment processing.
+Terminal-based inventory management system with persistent storage.
 
-##  Features
+## Overview
 
-- Menu customization
-- Real-time order tracking
-- Automated inventory deduction
-- Data persistence for orders and inventory
+This project provides a modular inventory management system for tracking products, quantities and inventory updates through a command-line interface.
 
-## Tech Stack
+The system emphasizes correctness, validation and reliable state persistence.
 
-- **Language**: C
-- **Storage**: File-based (CSV)
-- **Environment**: Terminal
+---
 
-## Impact
+## Features
 
-- Reduced manual inventory tracking time by **40%**
-- Improved order accuracy through automated calculations
-- Delivered entirely **pro bono** to a local restaurant
+- Product tracking
+- Inventory updates
+- Persistent file storage
+- Input validation
+- Error handling
 
+---
 
+## Technical Concepts
 
+- Modular system design
+- File persistence
+- State consistency
+- Validation logic
+
+---
+
+## Technologies
+
+- C++
+- File I/O
+- Object-Oriented Programming
+
+---
+
+## Future Improvements
+
+- Database integration
+- User authentication
+- Reporting dashboard
